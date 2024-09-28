@@ -44,10 +44,10 @@ class Request
      * @var string[]
      */
     public static array $requestTypesPost = [
-        self::REQUEST_TYPE_POST,
-        self::REQUEST_TYPE_PUT,
-        self::REQUEST_TYPE_PATCH,
-        self::REQUEST_TYPE_DELETE,
+        // self::REQUEST_TYPE_POST,
+        // self::REQUEST_TYPE_PUT,
+        // self::REQUEST_TYPE_PATCH,
+        // self::REQUEST_TYPE_DELETE,
     ];
 
     /**
